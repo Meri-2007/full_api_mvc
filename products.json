@@ -1,0 +1,32 @@
+[
+    {
+        "id": "101",
+        "name": "AirPods",
+        "category": "electronics",
+        "price": 25.99
+    },
+    {
+        "id": "102",
+        "name": "Bluetooth Headphones",
+        "category": "electronics",
+        "price": 59.99
+    },
+    {
+        "id": "103",
+        "name": "Denim Jacket",
+        "category": "clothing",
+        "price": 45.5
+    },
+    {
+        "id": "104",
+        "name": "Running Shoes",
+        "category": "clothing",
+        "price": 75
+    },
+    {
+        "id": "105",
+        "name": "The Pragmatic Programmer",
+        "category": "books",
+        "price": 39.99
+    }
+]
